@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "9352825744",
+    "project_id": "tuto-f76f6",
+    "storage_bucket": "tuto-f76f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9352825744:android:0b8941d23e3ec963ebc115",
+        "android_client_info": {
+          "package_name": "com.adrian.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9352825744-ok8029l578t1qmv3ikl2k1ebosfld1ri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adrian.login",
+            "certificate_hash": "e0698943a2734a2400a2fc0878531cc16fcd0c59"
+          }
+        },
+        {
+          "client_id": "9352825744-epk2mehrt0e316pop8g4a76n6ifsb42r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy0nwNVQYjF_acTCY29GOS9w5XpOwbZT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9352825744-epk2mehrt0e316pop8g4a76n6ifsb42r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
